@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/lib/functions/module-d.es6"],"names":[],"mappings":"6FAAe,YAAW;AACxB,UAAQ,GAAR,CAAY,GAAZ;AACD,C","file":"module-d.js","sourcesContent":["export default function() {\n  console.log('d')\n}\n"]}

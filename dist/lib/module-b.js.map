@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/lib/module-b.es6"],"names":[],"mappings":";;AAEe,YAAW;AACxB,UAAQ,GAAR,CAAY,GAAZ;AACA;AACD,C,CALD,iD","file":"module-b.js","sourcesContent":["import moduleC from 'lib/functions/module-c'\n\nexport default function() {\n  console.log('b')\n  moduleC()\n}\n"]}

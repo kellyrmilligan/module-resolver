@@ -1,0 +1,11 @@
+{
+  "presets": [
+    "trunkclub"
+  ],
+  "retainLines" : true,
+  "plugins": [
+    ["module-resolver", {
+      "root": ["./src"]
+      }]
+  ]
+}

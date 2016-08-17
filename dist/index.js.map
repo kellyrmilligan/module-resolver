@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.es6"],"names":[],"mappings":"aAAA,qC;AACA,uC;AACA,iD;;AAEA","file":"index.js","sourcesContent":["import moduleA from './module-a'\nimport moduleB from 'lib/module-b'\nimport moduleC from 'lib/functions/module-c'\n\nmoduleA()\n"]}
